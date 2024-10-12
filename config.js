@@ -1,1 +1,2 @@
-console.log('version1');
+console.log('fixed version 1');
+console.log('version2');
